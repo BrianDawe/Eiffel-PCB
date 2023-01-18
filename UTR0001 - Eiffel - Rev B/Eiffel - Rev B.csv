@@ -1,0 +1,26 @@
+,,,
+Component Count:,41,,
+,,,
+Ref,Qnty,Value,Footprint
+,,,
+"C1, C2, ",2,20pf,Capacitor_SMD:C_0805_2012Metric
+,,,
+"C3, ",1,0.1uF,Capacitor_SMD:C_0805_2012Metric
+,,,
+"D1, D2, ",2,LED,LED_SMD:LED_0805_2012Metric
+,,,
+"J1, J2, ",2,Mini-DIN-6,Din Sockets:MD60SM
+,,,
+"J3, J5, ",2,DB9_Male,Connector_Dsub:DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm
+,,,
+"J4, ",1,6P6C,Connector_RJ:RJ12_Amphenol_54601
+,,,
+"R1, R2, R4, R5, R6, R7, R8, R17, R19, R21, R23, R25, ",12,470R,Resistor_SMD:R_0805_2012Metric
+,,,
+"R3, R9, R10, R11, R12, R13, R14, R15, R16, R18, R20, R22, R24, ",13,10K,Resistor_SMD:R_0805_2012Metric
+,,,
+"R26, R27, R28, R29, ",4,10k,Resistor_SMD:R_0805_2012Metric
+,,,
+"U1, ",1,PIC16F876-XXISP,Package_DIP:DIP-28_W7.62mm_Socket
+,,,
+"Y1, ",1,4MHz,Crystal:Crystal_SMD_HC49-SD

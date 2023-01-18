@@ -1,0 +1,12 @@
+Ref,Val,Package,PosX,PosY,Rot,Side,M
+C1,20pf,C_0805_2012Metric,92.11,-111.76,90,top,C08-200
+C2,20pf,C_0805_2012Metric,92.11,-101.6,90,top,C08-200
+D1,LED,LED_0805_2012Metric,93.98,-133.35,0,top,D08-GRN
+D2,LED,LED_0805_2012Metric,117.1725,-133.35,0,top,D08-BLU
+R1,470R,R_0805_2012Metric,93.98,-129.54,0,top,R08-471
+R2,470R,R_0805_2012Metric,117.1725,-129.54,0,top,R08-471
+REF**,Fiducial_0.5mm_Mask1.5mm,Fiducial_0.5mm_Mask1.5mm,95.968239,-77.883119,0,top,FID1
+REF**,Fiducial_0.5mm_Mask1.5mm,Fiducial_0.5mm_Mask1.5mm,114.9,-77.9,0,top,FID1
+REF**,Fiducial_0.5mm_Mask1.5mm,Fiducial_0.5mm_Mask1.5mm,113.1,-124.4,0,top,FID1
+REF**,Fiducial_0.5mm_Mask1.5mm,Fiducial_0.5mm_Mask1.5mm,97.75,-124.45,0,top,FID1
+Y1,4MHz,Crystal_SMD_HC49-SD,95.92,-106.68,90,top,XTAL-4MHz
